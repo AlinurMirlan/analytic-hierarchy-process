@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KfQRbQvwINKu91Kcl4SCBvAKvG+GH2PFOzydcAzlfQX7Kcb0H0di7ED7Jq8WGiF+ybjajDIUi6b1yX3F4fCWpA==",
+  "success": true,
+  "projectFilePath": "C:\\Alinur\\university-work\\theory-of-making-decisions\\analytic-hierarchy-process\\AHP\\AHP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Notnik_kg\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Notnik_kg\\.nuget\\packages\\fractions\\7.2.1\\fractions.7.2.1.nupkg.sha512",
+    "C:\\Users\\Notnik_kg\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\Notnik_kg\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
