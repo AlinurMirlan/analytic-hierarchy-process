@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Alinur\\university-work\\theory-of-making-decisions\\analytic-hierarchy-process\\AHP\\AHP.csproj": {}
+    "C:\\Alinur\\university\\3rd-year\\theory-of-making-decisions\\analytic-hierarchy-process\\AHP\\AHP.csproj": {}
   },
   "projects": {
-    "C:\\Alinur\\university-work\\theory-of-making-decisions\\analytic-hierarchy-process\\AHP\\AHP.csproj": {
+    "C:\\Alinur\\university\\3rd-year\\theory-of-making-decisions\\analytic-hierarchy-process\\AHP\\AHP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Alinur\\university-work\\theory-of-making-decisions\\analytic-hierarchy-process\\AHP\\AHP.csproj",
+        "projectUniqueName": "C:\\Alinur\\university\\3rd-year\\theory-of-making-decisions\\analytic-hierarchy-process\\AHP\\AHP.csproj",
         "projectName": "AHP",
-        "projectPath": "C:\\Alinur\\university-work\\theory-of-making-decisions\\analytic-hierarchy-process\\AHP\\AHP.csproj",
+        "projectPath": "C:\\Alinur\\university\\3rd-year\\theory-of-making-decisions\\analytic-hierarchy-process\\AHP\\AHP.csproj",
         "packagesPath": "C:\\Users\\Notnik_kg\\.nuget\\packages\\",
-        "outputPath": "C:\\Alinur\\university-work\\theory-of-making-decisions\\analytic-hierarchy-process\\AHP\\obj\\",
+        "outputPath": "C:\\Alinur\\university\\3rd-year\\theory-of-making-decisions\\analytic-hierarchy-process\\AHP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Notnik_kg\\AppData\\Roaming\\NuGet\\NuGet.Config",

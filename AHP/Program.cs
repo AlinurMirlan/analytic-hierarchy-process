@@ -67,12 +67,11 @@ static Dictionary<Node, double> EnterAndEvaluateAlternatives(LinkedList<Node> le
             optionNode.ParentNode = leafNode;
         }
 
-        int i = 0;
         Console.WriteLine($"\nFill in the judgments of the alternatives regarding the {leafNode.Name} criterion:");
         FillJudgments(optionNodes, mapper);
         foreach (Node optionNode in optionNodes)
         {
-            optionValues[optionNode] += optionNode.Weight * leafNode.Weight;
+            optionValues[optionNode] += optionNode.Weight;
         }
     }
 
